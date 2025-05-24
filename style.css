@@ -1,0 +1,64 @@
+select{
+    background-color: orange;
+    color:white;
+    border:2px solid red;
+    border-radius: 8px;
+}
+option{
+    background-color: cornflowerblue;
+}
+body{
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+    color:;
+    border: 2px solid blue;
+    background-color: lightskyblue;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 10px;
+}
+body {
+    font-family: sans-serif;
+}
+
+header{
+    border-top: 3px solid gray;
+    border-left: 3px solid gray;
+    border-right: 3px solid gray;
+    background-color: rgb(188, 207, 241);
+}
+.More{
+    border:2px solid blue;
+    border-radius: 10px;
+    padding:3px;
+    color:white;
+    margin:10px;
+    text-decoration: none;
+    background-color: blue;
+}
+header h2{
+    font-family:cursive;
+}
+footer{
+    border:3px dotted red;
+    border-radius: 16px;
+    padding: 10px;
+    font-family: sans-serif;
+    background-color: rgb(220, 255, 252);
+}
+.fireworks {
+    border:2px solid rgb(205, 108, 63);
+    border-radius: 15px;
+    background-color: rgb(205, 108, 63);
+    color:white;
+    padding: 10px;
+}
+h2{
+    color: red;
+    margin: 25px;
+}
+p{
+    font-size: 20px;
+}
